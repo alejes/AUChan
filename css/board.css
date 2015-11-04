@@ -2,6 +2,7 @@
 .post {
     margin-top: 5px;
     background-color: #DDDDDD;
+<<<<<<< HEAD
     padding-left: 7px;
     padding-right: 7px;
 }
@@ -17,6 +18,8 @@
     margin-bottom: 0px;
     margin-left: auto;
     padding-bottom: 5px;
+=======
+>>>>>>> 8be52f33ec464021a02ac9e78e5bbf09783c5d12
 }
 
 .post .header {
@@ -38,6 +41,7 @@
     margin-left:auto;
     margin-right: 5px;
     text-align: right;
+<<<<<<< HEAD
 }
 
 .post .image {
@@ -51,4 +55,6 @@
     display: inline;
     margin-left: 15px;
     margin-right: 15px;
+=======
+>>>>>>> 8be52f33ec464021a02ac9e78e5bbf09783c5d12
 }
